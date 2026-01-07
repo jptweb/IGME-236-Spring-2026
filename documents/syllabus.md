@@ -124,14 +124,13 @@ Week X: [Topic]
 ├── Week X Checklist             ← Start here! Your to-do list for the week
 ├── [Lecture Slides]             ← Link + PDF versions
 ├── Assignments/                 ← Study Quiz, Sketches, Writeup, In-Class Exercises
-├── Readings/Watchings/          ← REQUIRED: Study Quiz is based on these
+│   └── Readings/Watchings/      ← REQUIRED: Study Quiz is based on these
 └── Resources/                   ← Optional but recommended extras
 ```
 
 **Key distinction:**
-- **Readings/Watchings folder** = Required. Complete these BEFORE Tuesday's class. The Study Quiz (in Assignments) tests this material.
+- **Readings/Watchings** (inside Assignments) = Required. Complete these BEFORE Tuesday's class. The Study Quiz tests this material.
 - **Resources folder** = Strongly recommended but not quizzed. Skim these to deepen your understanding and help with assignments.
-- **Assignments folder** = Where you submit work and take quizzes.
 
 ---
 
@@ -216,9 +215,9 @@ Life happens, and I understand. However, if absence requests become frequent, I 
 - Or jump directly to [#236-general](https://app.slack.com/client/E018A0NHZNY/C0A6J4A6350)
 
 **Channels:**
-- **#236-general** → general questions and discussion
-- **#236-announcements** → course announcements (instructor posts)
-- **#236-bad-design-examples** → share bad design finds (join in Week 2)
+- **#236-general** → questions, discussion, and course announcements
+- **#236-random** → off-topic chat, memes, games you're playing, cool stuff you found
+- **#236-bad-design-examples** → share bad design finds (we'll open this one in Week 2)
 
 **Usage:**
 - Grade questions → DM the TA
@@ -265,7 +264,7 @@ You are invited to share the name and pronouns you wish us to use. You can:
 - Ask questions about concepts and assignments
 - Answer questions from peers
 - Share useful links and examples
-- Use #random to get to know classmates
+- Use #236-random to get to know classmates
 
 ---
 
