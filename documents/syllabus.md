@@ -60,10 +60,10 @@ All readings are provided online via myCourses or O'Reilly Learning (RIT access)
 
 ### Supplies
 - **Sketchbook** (required) - 5.5x8.5 or similar, $5-25
+  - **Digital alternative:** iPad/tablet with stylus is fine — the key is *hand-drawn*, not computer-generated mockups
+  - See [Tips on Sketches & Writeups](./sketches-writeups-tips.md) for details
 - Pencil (mechanical or wood) recommended over pen
 - Headphones/earbuds for in-class activities
-
-*If you have an accommodation for electronic handwriting, please discuss options with me.*
 
 ---
 

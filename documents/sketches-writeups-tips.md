@@ -27,7 +27,24 @@ This approach makes it easier to identify meaningful design differences rather t
 
 **Label key areas of difference.** Your sketches don't need to include every detail about good and bad design aspects, but highlighting the important differences helps others focus during critique.
 
-**Remember: sketches, not photos.** Hand-drawn (paper or tablet) — not screenshots, photos, or digital mockups.
+### Hand-Drawn Required (But Digital is OK!)
+
+The key requirement is **hand-drawn** — your sketches need to come from your hand, not a computer.
+
+**Acceptable:**
+- Paper sketchbook + pencil/pen (the classic)
+- iPad/tablet + stylus (Procreate, Notability, etc.)
+- Wacom tablet or similar
+
+**Not acceptable:**
+- Screenshots or photos of the items
+- Figma/Sketch/Adobe XD mockups
+- AI-generated images
+- Tracing with shape tools
+
+**Why hand-drawn?** Sketching forces you to focus on what matters. When you draw something, you have to decide what to include and what to leave out. Photos capture everything; sketches capture your *understanding*. That's the point.
+
+**Don't worry about artistic skill.** These are sketches, not portfolio pieces. If someone can tell what you drew and read your labels, you're good.
 
 ---
 
@@ -73,7 +90,8 @@ Nick has taught this class many times and developed these videos during COVID. T
 
 Before submitting your sketch:
 - [ ] Two real-world items (not imagined/designed by you)
-- [ ] Hand-drawn (paper or digital tablet)
+- [ ] Hand-drawn (paper sketchbook or tablet with stylus)
+- [ ] Not photos, screenshots, or digital mockups
 - [ ] Key differences labeled
 - [ ] Large enough to see details
 
