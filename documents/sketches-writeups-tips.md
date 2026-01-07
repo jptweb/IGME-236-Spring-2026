@@ -57,8 +57,6 @@ Consider how design choices impact different users and contexts. Remember the ma
 
 Recorded for his IGME-236 class:
 
-<iframe src="https://www.youtube.com/embed/xGv05IWakQQ" width="560" height="315" allowfullscreen></iframe>
-
 [Watch on YouTube](https://www.youtube.com/watch?v=xGv05IWakQQ)
 
 ### 2. Nick Buonarota (Lab Tips Series)
