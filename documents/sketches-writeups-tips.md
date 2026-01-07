@@ -4,6 +4,31 @@
 
 ---
 
+## What You Need for Sketching
+
+You'll be sketching every week for the first half of the semester. Here are your options:
+
+### Option 1: Physical Sketchbook (Recommended)
+- **Sketchbook** — 5.5x8.5" or similar, $5-25
+  - Cheap: Walmart, Amazon basics (~$5)
+  - Mid-range: Strathmore, Canson (~$10-15)
+  - Fancy: Moleskine (~$20-25)
+- **Pencil** — mechanical or wood (easier to erase than pen)
+- That's it!
+
+### Option 2: Tablet + Stylus
+- iPad + Apple Pencil
+- Android tablet + stylus
+- Wacom tablet connected to computer
+- **Apps:** Procreate, Notability, GoodNotes, or even the default notes app
+
+### What Matters
+Both options are equally valid. Pick whatever you'll actually use consistently. The goal is hand-drawn sketches that communicate your ideas — not artistic masterpieces.
+
+**Don't have either?** A tablet is a bigger investment, so a $5 sketchbook is the easy choice. But if you already have an iPad, use it!
+
+---
+
 ## Choosing Items to Compare
 
 Within the context of each week's guidelines, try to choose two items that are:
