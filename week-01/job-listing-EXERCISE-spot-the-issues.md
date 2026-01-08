@@ -57,52 +57,12 @@ We're a small team with big dreams! You'll have creative freedom to make our gam
 
 ---
 
-# STOP HERE DURING CLASS
+## Think About It
 
----
+1. What would you actually be doing in this job?
 
-## Discussion: What's Wrong With This Listing?
+2. Compare this to the other listings. What's missing here that appears in those?
 
-*(Reveal after students discuss)*
+3. The title says "UX Designer." Based on what you've learned, is that accurate? What would be a better title?
 
-### Red Flags
-
-1. **Title vs. Reality Mismatch**
-   - Says "UX Designer" but describes a Visual/UI Designer or Graphic Designer role
-   - Zero mention of: user research, usability testing, user flows, wireframing, prototyping, player feedback, personas, or any actual UX work
-
-2. **"Make it look amazing" Focus**
-   - UX is about how it *works*, not just how it *looks*
-   - Phrases like "pixel-perfect," "beautiful," "gorgeous," "pretty things" = visual design, not UX
-
-3. **Deliverables Are All Visual Assets**
-   - Icons, buttons, promotional graphics, marketing materials
-   - No mention of: user journey maps, wireframes, usability reports, A/B test results
-
-4. **No Research or Testing Anywhere**
-   - Real UX roles mention: user interviews, playtesting, surveys, analytics, heuristic evaluation
-   - This listing treats players as viewers, not users to understand
-
-5. **"Visual taste" as Key Qualification**
-   - UX is evidence-based, not taste-based
-   - Research findings > personal aesthetic preferences
-
-6. **Suspiciously Low Salary**
-   - $55-65k for "3+ years UX experience" is below market
-   - They're paying for a graphic designer but asking for UX credentials
-
-### What This Company Actually Needs
-
-They should hire a **UI Artist** or **Visual Designer** — and that's fine! Those are real roles. The problem is mislabeling it "UX Designer" which:
-- Attracts wrong candidates
-- Signals the company doesn't understand UX
-- May mean no one is doing actual UX work on the game
-
-### Compare To Real UX Roles
-
-Look at the Activision/Naughty Dog User Researcher listings:
-- Required degrees: Psychology, HCI, Human Factors
-- Methods: usability testing, playtesting, surveys, heuristic evaluation
-- Deliverables: research findings, actionable recommendations
-
-That's what actual UX work looks like.
+4. Would you apply for this job? Why or why not?

@@ -1,44 +1,33 @@
-# Week 1 Materials
+# Week 1: Job Listings
 
-## Job Listings for UX/UI Roles
+Real job listings from the game industry. Use these to see how companies actually define UX and UI roles — and how those definitions don't always match the textbook.
 
-These job listings are used to discuss how companies define, combine, and differentiate UX/UI roles in the industry.
+## The Listings
 
-### Available Listings
+| Company | Role | Experience Level |
+|---------|------|------------------|
+| [Bad Robot Games](./job-listing-bad-robot-games.md) | Principal UI/UX Designer | Senior (12+ yrs) |
+| [Activision Blizzard](./job-listing-activision-user-researcher.md) | User Researcher (Mobile) | Mid (3+ yrs) |
+| [Naughty Dog](./job-listing-naughty-dog-user-researcher.md) | Senior User Researcher | Senior (5+ yrs) |
+| [Paradoxum Games](./job-listing-paradoxum-games.md) | UI/UX Designer | Entry-level |
+| [??? (Exercise)](./job-listing-EXERCISE-spot-the-issues.md) | UX Designer | — |
 
-| File | Company | Role | Level |
-|------|---------|------|-------|
-| [job-listing-bad-robot-games.md](./job-listing-bad-robot-games.md) | Bad Robot Games | Principal UI/UX Designer | Senior (12+ yrs) |
-| [job-listing-activision-user-researcher.md](./job-listing-activision-user-researcher.md) | Activision Blizzard | User Researcher (Mobile) | Mid (3+ yrs) |
-| [job-listing-naughty-dog-user-researcher.md](./job-listing-naughty-dog-user-researcher.md) | Naughty Dog | Senior User Researcher | Senior (5+ yrs) |
-| [job-listing-paradoxum-games.md](./job-listing-paradoxum-games.md) | Paradoxum Games | UI/UX Designer | Entry-ish ($70-80k) |
+## Questions to Consider
 
-### Class Exercise
+As you read through these, think about:
 
-| File | Purpose |
-|------|---------|
-| [job-listing-EXERCISE-spot-the-issues.md](./job-listing-EXERCISE-spot-the-issues.md) | **Fake listing** — "UX Designer" that's actually a Visual Designer. Students spot the red flags. Reveal/discussion at bottom of file.
+1. **What's actually in the job?** Look past the title. What would you be doing day-to-day?
 
-### Discussion Topics
+2. **UI vs UX:** Does the listing treat these as separate things, or blend them together? Which seems more emphasized?
 
-When reviewing these listings, consider:
+3. **Research:** Does the role involve understanding users (interviews, testing, surveys)? Or is it purely about creating visuals?
 
-1. **Role Boundaries:** How do companies combine or separate UI vs UX responsibilities?
-2. **Technical Requirements:** What tools and implementation skills are expected?
-3. **Industry Context:** How do game industry roles differ from web/app UX?
-4. **Career Progression:** What does an entry-level version of this role look like?
-5. **Soft Skills:** What collaboration and communication skills are valued?
+4. **Tools vs Methods:** Are they asking for tools (Figma, Photoshop) or methods (usability testing, wireframing, prototyping)? What's the difference?
 
-### Adding More Listings
+5. **Compare roles:** The Bad Robot listing requires 12+ years. The Paradoxum listing doesn't specify years. What's different about what they're asking for?
 
-To add a new listing, create a markdown file following the naming pattern:
-```
-job-listing-[company-name].md
-```
+6. **Degrees mentioned:** Some listings mention specific degrees (Psychology, HCI, Human Factors). What does that tell you about what the job actually involves?
 
-Include:
-- Job title and company
-- Source/date captured
-- Location and salary (if listed)
-- Responsibilities and qualifications
-- Discussion points for class
+## The Exercise
+
+One of these listings is fake. Can you tell which one — and what's wrong with it?
