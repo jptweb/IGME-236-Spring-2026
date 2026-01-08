@@ -10,7 +10,7 @@ Real job listings from the game industry. Use these to see how companies actuall
 | [Activision Blizzard](./job-listing-activision-user-researcher.md) | User Researcher (Mobile) | Mid (3+ yrs) |
 | [Naughty Dog](./job-listing-naughty-dog-user-researcher.md) | Senior User Researcher | Senior (5+ yrs) |
 | [Paradoxum Games](./job-listing-paradoxum-games.md) | UI/UX Designer | Entry-level |
-| [??? (Exercise)](./job-listing-EXERCISE-spot-the-issues.md) | UX Designer | — |
+| [Fictional Example](./job-listing-EXERCISE-spot-the-issues.md) | "UX Designer" | Red flags |
 
 ## Questions to Consider
 
@@ -28,6 +28,6 @@ As you read through these, think about:
 
 6. **Degrees mentioned:** Some listings mention specific degrees (Psychology, HCI, Human Factors). What does that tell you about what the job actually involves?
 
-## The Exercise
+## Bonus: Spotting Red Flags
 
-One of these listings is fake. Can you tell which one — and what's wrong with it?
+I couldn't find a real listing that perfectly illustrated a misdefined role, so I made one up. The [last listing](./job-listing-EXERCISE-spot-the-issues.md) is fictional — it's an example of what a "red flag" job posting might look like. Knowing how to spot these is a useful skill when job hunting!
