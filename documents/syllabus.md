@@ -33,17 +33,22 @@ The good news: the 300-500 word limit keeps assignments focused. Quality over qu
 
 ### Generative AI Policy
 
-You may use generative AI tools (ChatGPT, Claude, Copilot, etc.) to assist with your work in this course, with the following requirements:
+**AI use is NOT blanket-permitted in this course.** Some assignments allow AI assistance; others do not. Each assignment will specify whether AI tools may be used. When in doubt, ask me before submitting.
+
+When AI use IS permitted, the following requirements apply:
 
 1. **The ideas and analysis must be your own.** AI can help you polish grammar, clarify phrasing, or organize thoughts - but YOU must do the thinking. Write first, then use AI to edit if helpful.
 
-2. **Disclosure is required.** If you use AI tools in any capacity beyond basic spell-check, you must disclose this at the end of your submission. A simple note like "Used ChatGPT for grammar editing" is sufficient.
+2. **Disclosure is MANDATORY - no exceptions.** If you use AI tools in any capacity beyond basic spell-check, you MUST disclose this at the end of your submission. Include:
+   - Which tool(s) you used (ChatGPT, Claude, Copilot, etc.)
+   - How you used it (grammar editing, brainstorming, outlining, etc.)
+   - Example: "Used ChatGPT to check grammar and improve sentence clarity after I wrote my initial draft."
 
-3. **Failure to disclose AI use is academic dishonesty.** Using AI without disclosure is equivalent to having someone else do your work and claiming it as your own. This will be treated as an academic integrity violation.
+3. **Undisclosed AI use = academic dishonesty.** This is not negotiable. Using AI without disclosure - or using AI on assignments where it's prohibited - is equivalent to having someone else do your work and claiming it as your own. This will be reported as an academic integrity violation and may result in a zero on the assignment or failure of the course.
 
-4. **AI cannot replace the learning.** Submitting AI-generated content without genuine engagement defeats the purpose of this Writing Intensive course. If your writing doesn't demonstrate understanding of UX concepts, it won't earn full credit regardless of how polished it sounds.
+4. **AI cannot replace the learning.** Submitting AI-generated content without genuine engagement defeats the purpose of this Writing Intensive course. If your writing doesn't demonstrate understanding of UX concepts, it won't earn full credit regardless of how polished it sounds. I can tell when students haven't done the thinking themselves.
 
-**Why this policy?** AI tools are increasingly part of professional workflows. Learning to use them responsibly - as assistants rather than replacements for your own thinking - is a valuable skill. But transparency is non-negotiable.
+**Why this policy?** AI tools are increasingly part of professional workflows. Learning to use them responsibly - as assistants rather than replacements for your own thinking - is a valuable skill. But transparency is absolutely non-negotiable, and some skills need to be developed without AI assistance.
 
 ---
 
@@ -77,11 +82,21 @@ All readings are provided online via myCourses or O'Reilly Learning (RIT access)
 | Prototype Project | 40% |
 
 ### Grade Scale
-- 90-100% = A
-- 80-89% = B
-- 70-79% = C
-- 60-69% = D
-- Below 60% = F
+
+| Grade | Percentage |
+|-------|------------|
+| A     | 93+        |
+| A-    | 90-92      |
+| B+    | 87-89      |
+| B     | 83-86      |
+| B-    | 80-82      |
+| C+    | 77-79      |
+| C     | 73-76      |
+| C-    | 70-72      |
+| D     | 60-69      |
+| F     | < 60       |
+
+Grades will be rounded up at .5 or higher (e.g., 89.5 becomes 90, but 89.4 stays 89).
 
 ### Description of Components
 
