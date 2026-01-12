@@ -1,12 +1,14 @@
 # IGME 236: Experience Design for Games & Media
 ## Spring 2026 Syllabus
 
-**Instructor:** John-Paul Takats
-**Email:** jxtadm@rit.edu *(use Slack preferred)*
-**Section:** 06 (55135)
-**Meeting Time:** Tue/Thu 5:00-6:15 PM
-**Location:** GOL 2570
-**Office Hours:** See [people.rit.edu/~jxtadm](https://people.rit.edu/~jxtadm/)
+| | |
+|---|---|
+| **Instructor** | John-Paul Takats |
+| **Email** | jxtadm@rit.edu *(use Slack preferred)* |
+| **Section** | 06 (55135) |
+| **Meeting Time** | Tue/Thu 5:00-6:15 PM |
+| **Location** | GOL 2570 |
+| **Office Hours** | See [people.rit.edu/~jxtadm](https://people.rit.edu/~jxtadm/) |
 
 ---
 
