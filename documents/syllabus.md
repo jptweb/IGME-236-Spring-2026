@@ -134,18 +134,49 @@ During the second half of the semester, you will be working with a group to desi
 
 ## Navigating myCourses
 
-Each week has its own folder in the Content area. Here's how they're organized:
+### The Checklist is Your Guide
+
+**Every week, start with the Checklist.** This is the backbone of the course - it tells you exactly what to do and when. If you're ever unsure what's due or what to work on next, check the checklist.
+
+Each week has its own folder in the Content area:
 
 ```
 Week X: [Topic]
-├── Week X Checklist             ← Start here! Your to-do list for the week
+├── Week X Checklist             ← START HERE every week
 ├── [Lecture Slides]             ← Link + PDF versions
 ├── Assignments/                 ← Study Quiz, Sketches, Writeup, In-Class Exercises
 │   └── Readings/Watchings/      ← REQUIRED: Study Quiz is based on these
 └── Resources/                   ← Optional but recommended extras
 ```
 
-**Key distinction:**
+### Checklist Structure
+
+Checklists follow a consistent rhythm throughout the semester. Here's the typical flow:
+
+**Before Tuesday's Class**
+- Complete required readings/watchings
+- Take the Study Quiz (tests the readings)
+
+**At Tuesday's Class**
+- Attend lecture
+- Participate in any in-class activities
+
+**Between Tuesday and Thursday**
+- Work on your sketch assignment
+- Have it ready to bring to Thursday's class
+
+**At Thursday's Class**
+- Bring your completed sketch
+- Participate in peer critique/group discussion
+- Complete any in-class exercises
+
+**After Thursday (by Sunday 11:59 PM)**
+- Submit your writing assignment (informed by readings, sketch, and peer feedback)
+
+Not every week follows this exact pattern - project weeks and special topics may vary. But the checklist always reflects what's actually due that week.
+
+### Key Distinction
+
 - **Readings/Watchings** (inside Assignments) = Required. Complete these BEFORE Tuesday's class. The Study Quiz tests this material.
 - **Resources folder** = Strongly recommended but not quizzed. Skim these to deepen your understanding and help with assignments.
 
