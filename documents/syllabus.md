@@ -217,9 +217,10 @@ There is no attendance grade, but many graded activities occur in class (25% of 
 
 ### If You Must Miss Class
 
-1. **Submit an absence request via Slack workflow BEFORE class**
+1. **DM me on Slack BEFORE class**
+   - A quick message letting me know is all that's needed
    - This helps me track absences and keeps you accountable
-   - Requests submitted after class may not be accepted
+   - Messages sent after class may not be accepted
 
 2. **Arrange your own makeup**
    - An excused absence does not automatically mean makeup work
@@ -231,13 +232,13 @@ There is no attendance grade, but many graded activities occur in class (25% of 
 ### A Note on Frequency
 Life happens, and I understand. However, if absence requests become frequent, I may need to have a conversation about your ability to succeed in the course. The in-class activities are designed to build skills through peer interaction - missing too many diminishes that experience.
 
-*Please do not come to class sick! Use the Slack workflow and we'll figure it out.*
+*Please do not come to class sick! DM me on Slack and we'll figure it out.*
 
 ---
 
 ## Late Work
 
-**Best option:** Request an extension via Slack DM **before noon on the due date**. Extensions are usually granted if you communicate proactively.
+**Best option:** Submit an extension request using the Slack workflow in **#236-extension-request** before the due date. Extensions are usually granted if you communicate proactively.
 
 **No extension requested:**
 
@@ -269,7 +270,8 @@ Life happens, and I understand. However, if absence requests become frequent, I 
 
 **Usage:**
 - Grade questions → DM the TA
-- Extensions/absences → DM the instructor
+- Extensions → use the Slack workflow in **#236-extension-request**
+- Absences → DM the instructor
 - I check Slack frequently; expect response within 24 hours (M-F)
 
 ### Email
