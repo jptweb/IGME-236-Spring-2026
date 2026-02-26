@@ -75,7 +75,7 @@ Each team member must choose one task that a user currently performs in the cont
 - For the coffee shop problem, task flows might include entering the shop and figuring out where to order, waiting in line, ordering, paying, or picking up the drink. Pain points might include long waits, confusing layouts, hard-to-read menus, or payment friction.
 - For the Spotify redesign, a task flow might follow a user creating or managing a playlist. Pain points might include searching for songs, sorting, filtering, or managing very large lists.
 
-### 6. Propose high-level potential solutions
+### 7. Propose high-level potential solutions
 
 After identifying pain points in the current task flow, suggest high-level potential solutions your product or redesign could offer. These should be broad ideas at this stage — not detailed UI designs yet.
 
@@ -83,20 +83,21 @@ After identifying pain points in the current task flow, suggest high-level poten
 - For the coffee shop problem, high-level solutions could include mobile ordering to skip the line, or streamlining payment with pre-paid accounts.
 - For the Spotify redesign, potential solutions might include better filtering tools for large playlists, or smarter search that predicts user intent.
 
-### 7. Write the proposal (team document)
+### 8. Write the proposal (team document)
 
 As a team, create a document that includes:
 
 1. **Problem Statement or Redesign Focus:** A brief description of the problem you are solving or the software you are redesigning.
 2. **Target Users:** Who are they, and how are they affected by the problem or by the current software design?
-3. **Task Flows:** Each team member contributes one task flow based on the current user experience, including pain points.
-4. **Initial Ideas:** A high-level overview of how the team plans to address the problem or redesign the software.
+3. **Draft Personas:** 2 personas representing different types of users within your target group.
+4. **Task Flows:** Each team member contributes one task flow based on the current user experience, including pain points.
+5. **Initial Ideas:** A high-level overview of how the team plans to address the problem or redesign the software.
 
 ## Deliverable
 
 Submit your project proposal as a **PDF** to the myCourses dropbox. Only one submission needed per team.
 
-Must include: problem statement or redesign focus, target users, task flows (current experience with pain points), and high-level potential solutions.
+Must include: problem statement or redesign focus, target users, draft personas, task flows (current experience with pain points), and high-level potential solutions.
 
 ## AI Expectations
 
@@ -112,7 +113,7 @@ AI use for this assignment is allowed in a **limited, supportive role**.
 - Identify or define your project problem or redesign focus
 - Determine your project direction or core concept
 - Define your target users without team discussion and reasoning
-- Generate task flows or map the current user experience
+- Generate personas, task flows, or map the current user experience
 - Identify pain points you have not personally observed or researched
 - Propose solutions in place of your team's own design thinking
 
