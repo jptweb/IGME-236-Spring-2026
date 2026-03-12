@@ -8,6 +8,8 @@ Specifically, you will investigate whether the problems your team identified are
 
 It is up to your group to decide how to divide up this work, but the expectation is that everyone is involved in the initial discussions for all aspects of this assignment. You'll have some time in-class to at least start these discussions.
 
+> **A word of caution on splitting up the work:** For the interview and survey questions in particular, resist the temptation to just have each team member write a couple of questions independently and drop them into a shared doc. Questions need to work *together* as a coherent script — they should flow naturally, build on each other, and avoid redundancy. Use your in-class time to discuss and draft questions as a group, or at minimum, review and revise each other's questions together before finalizing.
+
 ---
 
 ## 1. Background Research
