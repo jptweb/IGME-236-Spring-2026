@@ -66,4 +66,4 @@ Select **two core screens** from your prototype and apply the design system to c
 Submit the Design System Document with the mockups included at the end to the myCourses dropbox.
 
 ---
-[< Previous: Lo-Fi Prototype](./04-lo-fi-prototype.md) | [All Projects](./README.md) | [Next: Final Prototype >](./06-final-prototype.md)
+[< Previous: Lo-Fi Prototype](./04-lo-fi-prototype.md) | [Project Overview](./README.md) | [Next: Final Prototype >](./06-final-prototype.md)

@@ -20,4 +20,4 @@ Be sure to test your prototype before submitting. If I encounter significant pro
 Submit a **link to your high-fidelity prototype** and a **list of each of the user tasks** that have been addressed within the prototype.
 
 ---
-[< Previous: Design System](./05-design-system.md) | [All Projects](./README.md) | [Next: Video Walkthrough >](./07-video-walkthrough.md)
+[< Previous: Design System](./05-design-system.md) | [Project Overview](./README.md) | [Next: Video Walkthrough >](./07-video-walkthrough.md)

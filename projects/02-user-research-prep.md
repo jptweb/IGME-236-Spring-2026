@@ -101,4 +101,4 @@ This assignment is intended to help your team practice identifying real user pro
 **If AI tools are used, include a brief acknowledgment describing how they were used.**
 
 ---
-[< Previous: Proposal](./01-proposal.md) | [All Projects](./README.md) | [Next: User Research >](./03-user-research.md)
+[< Previous: Proposal](./01-proposal.md) | [Project Overview](./README.md) | [Next: User Research >](./03-user-research.md)

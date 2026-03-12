@@ -122,4 +122,4 @@ This proposal is intended to reflect your team's original UX investigation and e
 If AI tools are used, include a brief acknowledgment describing how they were used.
 
 ---
-[All Projects](./README.md) | [Next: User Research Prep >](./02-user-research-prep.md)
+[Project Overview](./README.md) | [Next: User Research Prep >](./02-user-research-prep.md)

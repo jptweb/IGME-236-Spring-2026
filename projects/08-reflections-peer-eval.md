@@ -31,4 +31,4 @@ List each member of your group, including yourself. For each person, answer the 
 Submit as a PDF to the myCourses dropbox. You can write this in a word processor or copy this markdown into a document.
 
 ---
-[< Previous: Video Walkthrough](./07-video-walkthrough.md) | [All Projects](./README.md)
+[< Previous: Video Walkthrough](./07-video-walkthrough.md) | [Project Overview](./README.md)
