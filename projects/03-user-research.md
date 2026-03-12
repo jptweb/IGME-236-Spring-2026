@@ -69,3 +69,6 @@ After conducting your interviews, observations, and survey, reflect on whether y
 ## Final Deliverable
 
 Combine the deliverables from each part into **one document** and submit to the myCourses dropbox.
+
+---
+[< Previous: User Research Prep](./02-user-research-prep.md) | [All Projects](./README.md) | [Next: Lo-Fi Prototype >](./04-lo-fi-prototype.md)

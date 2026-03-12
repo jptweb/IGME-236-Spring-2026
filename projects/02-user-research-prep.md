@@ -66,6 +66,8 @@ These should be users who are affected by the problem or who use the software yo
 
 > **Note:** This is only a research plan — you do not need to conduct the interviews yet. The interviews will be conducted during the next stage of the project.
 
+> **Suggestion:** If you have time, do a practice run of your interview questions with a teammate or friend. You'll quickly discover which questions are confusing, which ones get one-word answers, and where you need better follow-ups. It's much better to find these problems now than during your actual interviews.
+
 ## Deliverable
 
 Submit a single document (exported to PDF or DOCX) for your whole team that includes:
@@ -97,3 +99,6 @@ AI use for this assignment is allowed in a **limited, research-support role**.
 This assignment is intended to help your team practice identifying real user problems and preparing tools to investigate them. Your research summaries, interview questions, and survey design should reflect your team's own reasoning and investigation, even if AI is later used to refine wording.
 
 **If AI tools are used, include a brief acknowledgment describing how they were used.**
+
+---
+[< Previous: Proposal](./01-proposal.md) | [All Projects](./README.md) | [Next: User Research >](./03-user-research.md)

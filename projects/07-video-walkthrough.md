@@ -18,3 +18,6 @@ One easy way to do this is by sharing your screen in a Zoom meeting (even if nob
 Upload the video to **YouTube**, and provide a link to it here.
 
 Alternatively, you can put the video in **Google Drive**, but you **MUST** make sure that you set the sharing up so that anyone with a link can access it.
+
+---
+[< Previous: Final Prototype](./06-final-prototype.md) | [All Projects](./README.md) | [Next: Reflections & Peer Eval >](./08-reflections-peer-eval.md)

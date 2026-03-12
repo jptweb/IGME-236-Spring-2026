@@ -120,3 +120,6 @@ AI use for this assignment is allowed in a **limited, supportive role**.
 This proposal is intended to reflect your team's original UX investigation and early framing work. All task flows, pain points, and solution ideas must come from your team's own analysis, even if AI is later used to refine presentation.
 
 If AI tools are used, include a brief acknowledgment describing how they were used.
+
+---
+[All Projects](./README.md) | [Next: User Research Prep >](./02-user-research-prep.md)
