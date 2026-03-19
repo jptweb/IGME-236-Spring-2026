@@ -10,6 +10,8 @@ It is up to your group to decide how to divide up this work, but the expectation
 
 > **A word of caution on splitting up the work:** For the interview and survey questions in particular, resist the temptation to just have each team member write a couple of questions independently and drop them into a shared doc. Questions need to work *together* as a coherent script — they should flow naturally, build on each other, and avoid redundancy. Use your in-class time to discuss and draft questions as a group, or at minimum, review and revise each other's questions together before finalizing.
 
+> **Tips, common pitfalls, rubric, and resources:** See the [Week 9 Day 2 Notes](../week-09/9B.md) for detailed guidance on each section — including what strong submissions look like, mistakes to avoid, and helpful resources for writing interview and survey questions.
+
 ---
 
 ## 1. Background Research
