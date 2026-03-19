@@ -1,5 +1,7 @@
 # Prototype Project: User Research Prep
 
+> **Before you start:** Check out the [Week 9 Day 2 Notes](../week-09/9B.md) for tips, common pitfalls, the rubric breakdown, and resources for writing strong interview and survey questions.
+
 Now that you have an initial project idea, it's time to start doing the groundwork. As we discussed in class (and as you've worked on so far!), there is a lot of preparation that goes into the design process before we begin prototyping anything. This assignment is another one of the early steps in that process.
 
 You've already conducted a competitive analysis to understand existing solutions and identify gaps. You will also conduct some targeted background research to better understand the problem space, and you will begin preparing research tools that will help you gather insights from real users.
