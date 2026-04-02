@@ -80,8 +80,6 @@ Answer the following in a few sentences each:
 
 3. **Figma vs. Axure:** Do a quick search on Figma and Axure RP. What's one key difference between them? Which would you lean toward for your group's prototype project, and why? (There's no wrong answer here. I'm curious about your reasoning.)
 
-4. **What would you do differently next time?** Now that you've been through it once, what would you change about your process?
-
 ---
 
 ## Tips
