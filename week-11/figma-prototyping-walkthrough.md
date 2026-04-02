@@ -106,6 +106,8 @@ The header will now stay pinned to the top while content scrolls beneath it.
 
 > **Watch out:** Fixed position only works on grouped elements. If it's not working, make sure you grouped first.
 
+> **Can't find the setting?** Check if you're in **Draw mode**. Draw mode hides the Design panel and causes all kinds of confusion. Look at the bottom toolbar on the right side and switch back to **Design mode**. If the right panel looks empty or wrong, this is almost always the reason.
+
 ---
 
 ## Step 8: Fix the Footer (Sticky Position)
