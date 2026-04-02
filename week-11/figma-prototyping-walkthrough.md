@@ -1,12 +1,12 @@
-# Figma Prototyping Walkthrough — Tazer Bed Guide
+# Figma Prototyping Walkthrough - Tazer Bed Guide
 
-> This is a step-by-step companion to the [Figma Prototyping Exercise](figma-prototyping-exercise.md). It covers the same four interaction patterns as the [YouTube tutorial](https://www.youtube.com/watch?v=v1UKB-0EUhQ) but uses a themed example — a fictional product called "Tazer Bed" from an IGME 110 project.
+> This is a step-by-step companion to the [Figma Prototyping Exercise](figma-prototyping-exercise.md). It covers the same four interaction patterns as the [YouTube tutorial](https://www.youtube.com/watch?v=v1UKB-0EUhQ) but uses a themed example - a fictional product called "Tazer Bed" from an IGME 110 project.
 >
 > **The Figma techniques are identical.** If you'd rather follow the video and build a generic app, go for it. This guide is here if you prefer written steps with screenshots, or want a reference to come back to when you get stuck.
 
 **Time estimate:** 45-60 minutes
 
-**What you need:** A Figma account (Education plan recommended — [setup instructions](https://docs.google.com/document/d/1nlwsaJXJozfZu4VocByOHxetIghnsTwGtABZgRNFOCc/edit?usp=sharing))
+**What you need:** A Figma account (Education plan recommended - [setup instructions](https://docs.google.com/document/d/1nlwsaJXJozfZu4VocByOHxetIghnsTwGtABZgRNFOCc/edit?usp=sharing))
 
 ---
 
@@ -34,7 +34,7 @@ A clickable mobile prototype with vertical scrolling, horizontal scrolling, mult
 1. Press `R` to create a rectangle at the top of the frame
 2. Change the fill color to a dark gray (something like `#333333`)
 3. Press `T` to add a text box on top of the rectangle
-4. Type your header text (e.g., "Tazer Bed" or "My App" — whatever you want)
+4. Type your header text (e.g., "Tazer Bed" or "My App" - whatever you want)
 5. Change the text color to white so it's readable
 6. Adjust font size and center it
 
@@ -45,11 +45,11 @@ A clickable mobile prototype with vertical scrolling, horizontal scrolling, mult
 ## Step 3: Create the Tab Bar
 
 1. Copy the header rectangle (`Cmd/Ctrl + C`, then `Cmd/Ctrl + V`)
-2. Move it to the bottom of the screen — this is your tab bar
+2. Move it to the bottom of the screen - this is your tab bar
 3. Press `R` and create 3 small rectangles on the tab bar to represent icons
 4. Space them evenly across the bar
 
-> **Tip:** Keep the tab bar around 60-80px tall. These placeholder rectangles represent icons — you can swap them for real icons later if you want, but plain shapes work fine for a wireframe.
+> **Tip:** Keep the tab bar around 60-80px tall. These placeholder rectangles represent icons - you can swap them for real icons later if you want, but plain shapes work fine for a wireframe.
 
 ---
 
@@ -90,7 +90,7 @@ Right now everything fits on one screen. To make the page scroll:
 4. Copy one of the cards and paste several more to fill the extended space
 5. Adjust the frame height so cards fill the full page
 
-Go back to the prototype preview — the page should scroll vertically now. But you'll notice the header and footer scroll away with the content. We'll fix that next.
+Go back to the prototype preview - the page should scroll vertically now. But you'll notice the header and footer scroll away with the content. We'll fix that next.
 
 ---
 
@@ -115,7 +115,7 @@ The header will now stay pinned to the top while content scrolls beneath it.
 3. In the right panel, change the **constraint** so it's pinned to the **bottom** (not top)
 4. Check the **"Fixed position when scrolling"** box
 
-![Footer constraint — pin to bottom](_images/prototype-footer-constraint-bottom.png)
+![Footer constraint - pin to bottom](_images/prototype-footer-constraint-bottom.png)
 
 > **Note:** The constraint settings have moved around in recent Figma updates. Look in the **Design** tab when your group is selected. You need to find the position/constraint area and set it to stick to the bottom. It may not be labeled "Constraint" anymore, but the setting is there.
 
@@ -138,7 +138,7 @@ Now we'll make a row of cards that scrolls horizontally (like a carousel).
 1. Select the **first card** in your content area and make it narrower (~60-70% of the frame width)
 2. Copy and paste to create several cards **side by side** (not stacked vertically)
 3. Select **all** the horizontal cards
-4. **Drag them out of the main frame** temporarily — just off to the side
+4. **Drag them out of the main frame** temporarily - just off to the side
 
 ![Cards pulled outside the frame](_images/prototype-horizontal-create-boxes.png)
 
@@ -160,8 +160,8 @@ Now we'll make a row of cards that scrolls horizontally (like a carousel).
 ## Step 11: Enable Horizontal Scrolling
 
 1. Select the **cards frame** (the container, not individual cards)
-2. Resize the frame width to match the phone width — the cards should overflow past the right edge
-3. In the right panel, check **"Clip content"** — this hides the overflow
+2. Resize the frame width to match the phone width - the cards should overflow past the right edge
+3. In the right panel, check **"Clip content"** - this hides the overflow
 4. Switch to the **Prototype** tab and set **Overflow** to **Horizontal scrolling**
 
 ![Horizontal scrolling enabled](_images/prototype-horizontal-enabled.png)
@@ -201,7 +201,7 @@ Now when you copy a page, the header and footer become **instances** of the comp
 2. Copy the entire frame (`Cmd/Ctrl + C`, then `Cmd/Ctrl + V`)
 3. Place the copy next to Page 1
 4. Rename it **"Page 2"**
-5. Keep the header and footer, but change the content to make it visually different — rearrange rectangles, add new ones, whatever makes it clearly a different screen
+5. Keep the header and footer, but change the content to make it visually different - rearrange rectangles, add new ones, whatever makes it clearly a different screen
 
 ---
 
@@ -209,7 +209,7 @@ Now when you copy a page, the header and footer become **instances** of the comp
 
 1. Make sure the **Prototype** tab is selected in the right panel
 2. On Page 1, select one of the **tab bar icons**
-3. Hover over it — you'll see a small blue circle (connection point) appear on the edge
+3. Hover over it - you'll see a small blue circle (connection point) appear on the edge
 4. **Drag that blue circle** to Page 2's frame and release
 
 ![Navigation interaction from Page 1 to Page 2](_images/prototype-step13.png)
@@ -252,7 +252,7 @@ Test your prototype:
 
 ## Step 15: Create a Modal Frame
 
-1. Press `F` to create a new frame — **smaller than your mobile screen** (about 70-80% of the width)
+1. Press `F` to create a new frame - **smaller than your mobile screen** (about 70-80% of the width)
 2. Position it near your pages (it doesn't need to be on top of them)
 3. Add rectangles to build a simple modal layout:
    - A background rectangle
@@ -270,8 +270,8 @@ Test your prototype:
 3. In the **Prototype** tab, drag the blue circle to your **modal frame**
 4. In the interaction details, change the action from **"Navigate to"** to **"Open overlay"**
 5. Check both boxes:
-   - **"Add background behind overlay"** — dims the page behind the modal
-   - **"Close when clicking outside"** — lets users dismiss by tapping outside
+   - **"Add background behind overlay"** - dims the page behind the modal
+   - **"Close when clicking outside"** - lets users dismiss by tapping outside
 
 ---
 
@@ -281,7 +281,7 @@ Test your prototype:
 2. In the Prototype tab, click **"+ Add interaction"**
 3. Set the action to **"Close overlay"**
 
-Now users can close the modal two ways: clicking the X, or clicking outside the modal. Always provide both options — it's a basic usability expectation.
+Now users can close the modal two ways: clicking the X, or clicking outside the modal. Always provide both options - it's a basic usability expectation.
 
 ---
 
@@ -310,7 +310,7 @@ Your prototype appears on your phone in real-time. This is the best way to exper
 Once you share your prototype link with someone:
 1. Open the same prototype link yourself
 2. When they start interacting with it, click their profile photo in the top right
-3. Select **Shadow** — you'll see everything they do in real-time
+3. Select **Shadow** - you'll see everything they do in real-time
 
 This is incredibly useful for user testing (which you'll be doing for your project prototype).
 
@@ -318,6 +318,6 @@ This is incredibly useful for user testing (which you'll be doing for your proje
 
 ## What You've Learned
 
-These four patterns — vertical scroll, horizontal scroll, page navigation, and overlays — are the foundation of interactive prototyping. Every mobile app you use combines these interactions in different ways. Now you know how to build them in Figma.
+These four patterns - vertical scroll, horizontal scroll, page navigation, and overlays - are the foundation of interactive prototyping. Every mobile app you use combines these interactions in different ways. Now you know how to build them in Figma.
 
 **Next up:** You'll apply these skills to your group's Lo-Fi Prototype (due Mon Apr 13).
