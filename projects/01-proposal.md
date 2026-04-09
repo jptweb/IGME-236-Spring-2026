@@ -1,5 +1,7 @@
 # Prototype Project: Proposal
 
+**Project steps:** **1. Proposal** · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · [5. Design System](./05-design-system.md) · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
+
 ## Objective
 
 Form teams and define a clear project proposal by either (1) identifying specific user problems to solve, or (2) choosing an existing piece of software to redesign. Each team member will also create an individual task flow documenting a current user experience, the pain points within it, and high-level potential solutions. Your project must focus on a **digital interactive interface** (mobile apps, web platforms, kiosks, dashboards, etc.).
@@ -9,6 +11,7 @@ Form teams and define a clear project proposal by either (1) identifying specifi
 ### 1. Meet your team
 
 - **Team size:** Groups of 3 (one group of 2).
+- **Team assignments:** See the [prototype project teams list](./prototype-teams.md).
 - **Roles & responsibilities:** Ensure each team member has a role and responsibility within the project. These roles may change throughout the semester, but make sure you discuss each phase together and decide how you will split the work.
 
 ### 2. Choose your focus

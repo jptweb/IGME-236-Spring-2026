@@ -1,5 +1,7 @@
 # Prototype Project: User Research Prep
 
+**Project steps:** [1. Proposal](./01-proposal.md) · **2. Research Prep** · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · [5. Design System](./05-design-system.md) · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
+
 > **Before you start:** Check out the [Week 9 Day 2 Notes](../week-09/9B.md) for tips, common pitfalls, the rubric breakdown, and resources for writing strong interview and survey questions.
 
 Now that you have an initial project idea, it's time to start doing the groundwork. As we discussed in class (and as you've worked on so far!), there is a lot of preparation that goes into the design process before we begin prototyping anything. This assignment is another one of the early steps in that process.

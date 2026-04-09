@@ -1,5 +1,7 @@
 # Prototype Project: Lo-Fi Prototype
 
+**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · **4. Lo-Fi Prototype** · [5. Design System](./05-design-system.md) · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
+
 Now that you've done your user research, create a low-fidelity prototype of your solution and conduct preliminary user testing to gather feedback.
 
 ## 1. Developing the Low-Fi Prototype

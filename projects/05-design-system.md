@@ -1,5 +1,7 @@
 # Prototype Project: Design System
 
+**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · **5. Design System** · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
+
 Using both the [Design System Checklist](https://www.designsystemchecklist.com/) and the [Branding Style Guidelines Archive](https://brandingstyleguides.com/) as references, you will be documenting your own Design System.
 
 ## 1. Establishing the Design Language
