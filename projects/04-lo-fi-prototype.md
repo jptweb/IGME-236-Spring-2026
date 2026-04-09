@@ -64,6 +64,26 @@ Based on the feedback received, outline any necessary changes for the next proto
 
 Submit a document to the dropbox with the **URL to the prototype**, the **user testing report**, and **overall reflections**.
 
+## AI Expectations
+
+AI use for this assignment is allowed in a **limited, supportive role**.
+
+**You may use AI tools to:**
+- Improve writing clarity, tone, grammar, and organization in your written report
+- Help structure your testing report or reflection sections
+- Refine descriptions of prototype features or user flows your team has already designed
+- Ask questions about how to use prototyping tools like Figma or Axure RP — but be aware that AI-generated instructions can be incomplete or wrong, so verify any technical guidance against documentation, tutorials, or experimentation (recall the resources from our in-class scavenger hunt)
+
+**AI may not be used to:**
+- Design your prototype screens, features, or user flows
+- Generate task scenarios or testing plans in place of your team's design decisions
+- Invent user testing results, observations, or participant feedback
+- Analyze your user testing outcomes in place of your team's own interpretation
+
+This assignment is intended to document your team's design work and the results of real user testing. All prototype decisions, observations, and reflections must come from your team's own design process and testing sessions, even if AI is later used to refine how those ideas are communicated.
+
+If AI tools are used, include a brief acknowledgment describing how they supported your process.
+
 ## Rubric (100 points)
 
 | Criterion | Excellent | Satisfactory | Needs Work | Missing/Minimal |
