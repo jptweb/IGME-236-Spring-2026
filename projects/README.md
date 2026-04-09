@@ -2,6 +2,8 @@
 
 During the second half of the semester (Weeks 7-15), you'll work with a group to design and implement an interactive prototype.
 
+See [team assignments and topics](./prototype-teams.md) for who's on each team and what they're working on.
+
 ## Deliverables
 
 Exact due dates are in myCourses. Approximate timing below for planning purposes.
