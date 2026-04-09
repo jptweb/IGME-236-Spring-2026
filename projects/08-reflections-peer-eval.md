@@ -32,5 +32,9 @@ List each member of your group, including yourself. For each person, answer the 
 
 Submit as a PDF to the myCourses dropbox. You can write this in a word processor or copy this markdown into a document.
 
+## AI Expectations
+
+*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own reflection or honest evaluation of your team. Detailed do's and don'ts for this step will be posted before it's due.
+
 ---
 [< Previous: Video Walkthrough](./07-video-walkthrough.md) | [Project Overview](./README.md)

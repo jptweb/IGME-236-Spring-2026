@@ -21,5 +21,9 @@ Upload the video to **YouTube**, and provide a link to it here.
 
 Alternatively, you can put the video in **Google Drive**, but you **MUST** make sure that you set the sharing up so that anyone with a link can access it.
 
+## AI Expectations
+
+*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own work. Detailed do's and don'ts for this step will be posted before it's due.
+
 ---
 [< Previous: Final Prototype](./06-final-prototype.md) | [Project Overview](./README.md) | [Next: Reflections & Peer Eval >](./08-reflections-peer-eval.md)

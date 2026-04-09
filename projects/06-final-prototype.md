@@ -21,5 +21,9 @@ Be sure to test your prototype before submitting. If I encounter significant pro
 
 Submit a **link to your high-fidelity prototype** and a **list of each of the user tasks** that have been addressed within the prototype.
 
+## AI Expectations
+
+*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design thinking, decisions, or work. Detailed do's and don'ts for this step will be posted before it's due.
+
 ---
 [< Previous: Design System](./05-design-system.md) | [Project Overview](./README.md) | [Next: Video Walkthrough >](./07-video-walkthrough.md)
