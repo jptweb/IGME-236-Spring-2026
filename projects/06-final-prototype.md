@@ -21,6 +21,18 @@ Be sure to test your prototype before submitting. If I encounter significant pro
 
 Submit a **link to your high-fidelity prototype** and a **list of each of the user tasks** that have been addressed within the prototype.
 
+## Rubric (100 points)
+
+| Criterion | Excellent | Good | Fair | Unacceptable |
+|---|---|---|---|---|
+| **Task Flow Implementation (30)** | 21–30 pts. All task flows (one per team member) are implemented and functional, allowing users to complete tasks seamlessly. | 11–20 pts. Most task flows are implemented and functional, with minor usability issues. | 1–10 pts. Some task flows are incomplete or contain usability issues that hinder task completion. | 0 pts. Task flows are incomplete, non-functional, or poorly implemented. |
+| **Error Handling Screens (10)** | 7–10 pts. Includes all necessary screens for modifying content and handling incorrect actions, with clear and functional navigation. | 4–6 pts. Includes most necessary screens, with minor gaps in handling errors or incorrect actions. | 1–3 pts. Includes some necessary screens, but error handling is incomplete or unclear. | 0 pts. Lacks necessary screens or error-handling functionality. |
+| **Adherence to Design System (20)** | 14–20 pts. Fully adheres to the design system, with consistent use of typography, colors, components, and layout. | 7–13 pts. Mostly adheres to the design system, with minor inconsistencies. | 1–6 pts. Some inconsistencies with the design system are present, affecting cohesion. | 0 pts. Significant inconsistencies with the design system. |
+| **Visual Polish and Usability (10)** | 7–10 pts. Prototype is visually polished, with intuitive navigation and a clean, professional appearance. | 4–6 pts. Prototype is visually clear, with some minor usability or aesthetic issues. | 1–3 pts. Prototype is functional but lacks visual refinement or usability clarity. | 0 pts. Prototype is visually unpolished, cluttered, or confusing. |
+| **Prototype Testing (20)** | 14–20 pts. Thoroughly tested with user group; issues are resolved before submission. | 7–13 pts. Tested but with minor unresolved issues affecting functionality. | 1–6 pts. Limited testing; significant unresolved issues remain. | 0 pts. Prototype shows no evidence of testing or refinement. |
+| **Working link to prototype (5)** | 1–5 pts. Submission includes a working link to the prototype. | — | — | 0 pts. Missing or broken link. |
+| **User tasks clearly outlined (5)** | 1–5 pts. User tasks are clearly outlined in the submission. | — | — | 0 pts. Missing or unclear. |
+
 ## AI Expectations
 
 *Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design thinking, decisions, or work. Detailed do's and don'ts for this step will be posted before it's due.

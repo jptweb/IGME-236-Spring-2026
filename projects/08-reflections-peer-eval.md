@@ -32,6 +32,17 @@ List each member of your group, including yourself. For each person, answer the 
 
 Submit as a PDF to the myCourses dropbox. You can write this in a word processor or copy this markdown into a document.
 
+## Rubric (10 points)
+
+In myCourses this is titled "Final Writeup."
+
+| Criterion | Excellent (2.1–2.5) | Some Problems (1.1–2.0) | Significant Problems (0.1–1.0) | Unacceptable / Missing (0) |
+|---|---|---|---|---|
+| **Process Reflections (2.5)** | Thoughtful narrative reflection on the design process — communication, identifying problems, breaking up tasks, testing, strategy, implementation. Specific and honest. | Reflection is present but surface-level or missing some aspects of the process. | Minimal reflection; vague or generic statements with little engagement with the actual process. | Missing or off-topic. |
+| **Product Reflections (2.5)** | Honest assessment of the final prototype — what worked, what didn't, what you'd scope or change. Specific and self-aware. | Some reflection on the product but lacking depth or specifics. | Minimal or generic reflection with little real evaluation of the prototype. | Missing or off-topic. |
+| **Group Performance (2.5)** | Each member (including yourself) is addressed with involvement, value of contribution, response to problems, 0–100 scores for participation and quality, and any additional context. | Most members addressed but some sections (scores, problem response, etc.) are incomplete or vague. | Significant gaps — members missing, no scores, or no real evaluation. | Missing or refuses to engage honestly. |
+| **Overall Writing Quality (2.5)** | Clear, well-organized narrative form (not bullet points). Proofread, professional tone appropriate for a writing-intensive course. | Generally clear with minor issues in organization, mechanics, or tone. | Hard to follow, frequent errors, or written as bullets/notes rather than narrative. | Unreadable or clearly unedited. |
+
 ## AI Expectations
 
 *Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own reflection or honest evaluation of your team. Detailed do's and don'ts for this step will be posted before it's due.

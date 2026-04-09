@@ -67,5 +67,21 @@ Select **two core screens** from your prototype and apply the design system to c
 
 Submit the Design System Document with the mockups included at the end to the myCourses dropbox.
 
+## Rubric (100 points)
+
+| Criterion | Excellent | Good | Poor | Unacceptable / Missing |
+|---|---|---|---|---|
+| **Design Language & Foundations: Vision, Principles, Tone, Terminology (15)** | 11–15 pts. Clearly articulated vision, well-defined design principles, tone, and consistent terminology that align with overall project goals. | 6–10 pts. Vision, tone, and terminology are included but lack some clarity or depth. | 1–5 pts. Basic attempt at vision and tone, but lacks depth, consistency, or alignment with project goals. | 0 pts. Missing or irrelevant definitions for vision, tone, or terminology. |
+| **Design Language & Foundations: Foundational Elements (15)** | 11–15 pts. Complete, well-documented foundation for color, typography, layout, and iconography, with visual examples and usage guidelines. | 6–10 pts. Foundational elements are included but may lack detail in some areas. | 1–5 pts. Foundational elements included but with minimal guidance or examples. | 0 pts. Foundational elements missing or poorly defined. |
+| **Core Components & Patterns: Component Library (15)** | 11–15 pts. Library of key UI components (buttons, navigation, alerts, dropdowns, etc.) with comprehensive guidelines and visual examples. | 6–10 pts. Component library is present but lacks some detail or depth. | 1–5 pts. Components included but with minimal/unclear guidance, or without visual examples. | 0 pts. Component library missing or lacks relevance. |
+| **Core Components & Patterns: Best Practices & Use Cases (15)** | 11–15 pts. Detailed best practices and specific use cases for components, ensuring clarity and usability. | 6–10 pts. Best practices and use cases included but may lack specificity or clarity in some areas. | 1–5 pts. Basic best practices and use cases mentioned but incomplete or vague. | 0 pts. Best practices and use cases missing or irrelevant. |
+| **Accessibility Guidelines (10)** | 8–10 pts. Clear, actionable accessibility guidelines (contrast, font size, screen reader compatibility). | 5–7 pts. Accessibility guidelines present but lack specificity or detail. | 1–4 pts. Minimal accessibility considerations, lacking actionable guidance. | 0 pts. Accessibility guidelines missing or irrelevant. |
+| **Responsive Design Considerations (10)** | 8–10 pts. Well-documented guidelines for adapting components across screen sizes, with clear instructions. | 5–7 pts. Responsive design guidelines included but lack detail in some areas. | 1–4 pts. Minimal responsive design guidelines with limited instruction. | 0 pts. Responsive design considerations missing. |
+| **Static Mockups (20)** | 17–20 pts. Two high-fidelity mockups that effectively apply the design system, with consistent and accurate use of components, tone, and style. | 11–16 pts. Mockups apply the design system but may lack some consistency or detail. | 1–10 pts. Mockups show minimal application of the design system, with inconsistencies in component or style use. | 0 pts. Mockups missing, incomplete, or do not apply the design system effectively. |
+
+## AI Expectations
+
+*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design decisions. Detailed do's and don'ts for this step will be posted before it's due.
+
 ---
 [< Previous: Lo-Fi Prototype](./04-lo-fi-prototype.md) | [Project Overview](./README.md) | [Next: Final Prototype >](./06-final-prototype.md)
