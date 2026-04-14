@@ -2,23 +2,36 @@
 
 **Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · **5. Design System and High-Fidelity Mockup** · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
 
-Using both the [Design System Checklist](https://www.designsystemchecklist.com/) and the [Branding Style Guidelines Archive](https://brandingstyleguides.com/) as references, you will be documenting your own Design System.
+Using both the [Design System Checklist](https://www.designsystemchecklist.com/) and the [Branding Style Guidelines Archive](https://brandingstyleguides.com/) as references, you will document your own Design System and apply it to two core screens of your prototype.
 
-## 1. Establishing the Design Language
+## What You're Submitting
 
-### Define Vision and Design Principles
+**One document** (PDF or shared link) submitted to the myCourses dropbox, containing the following sections in order:
 
-- Articulate the vision for the design system, describing the purpose, goals, and how the system will serve the users.
+1. **Design Language** — vision, design principles, tone, terminology
+2. **Foundations** — color palette, typography, layout & spacing, iconography (with visual examples and usage notes)
+3. **Component Library** — your key UI components (buttons, navigation, alerts, lists/dropdowns, etc.) with visual examples, states, and best-practice notes
+4. **Accessibility & Responsiveness** — accessibility guidelines and responsive design considerations
+5. **High-Fidelity Mockups** — two core screens from your prototype rendered in your design system
+6. **AI Acknowledgment** *(if applicable)* — brief note on how AI tools supported your work
+
+The sections below explain what goes into each part. Think of them as the **guide**; the list above is the **checklist**.
+
+---
+
+## Guide
+
+### 1. Design Language
+
+**Vision and Design Principles**
+- Articulate the vision for the design system — its purpose, goals, and how it serves users.
 - Establish design principles that will guide your design decisions (e.g., simplicity, accessibility, clarity).
 
-### Set Tone and Terminology
-
+**Tone and Terminology**
 - Define the tone (e.g., friendly, professional, playful) that reflects the brand or product personality.
 - Include a terminology guide to ensure consistency in wording, labels, and instructions across the interface.
 
-## 2. Guidelines and Foundations
-
-### Define Key Visual Elements
+### 2. Foundations
 
 Develop a foundation for your design system that includes:
 
@@ -27,45 +40,38 @@ Develop a foundation for your design system that includes:
 - **Layout and Spacing:** Consistent padding, margins, and alignment to create structure across the design.
 - **Iconography:** Standard sizes, styles, and usage for icons that align with the design language.
 
-### Document Each Element
+Provide clear guidelines and visual examples for each element, noting where and how each should be used.
 
-Provide clear guidelines and visual examples for each foundational element, noting where and how each should be used in the interface.
+### 3. Component Library
 
-## 3. Core Components and Patterns
-
-### Define Key UI Components
-
-Create a library of core components, including examples and guidelines for any components that will be used throughout the design. These are things such as:
+Create a library of core components, including examples and guidelines for any components used throughout your design:
 
 - **Buttons:** Primary, secondary, and disabled states.
 - **Menus and Navigation:** Styles for menus, nav bars, tabs, and other navigation elements.
 - **Alerts and Modals:** Styles and usage for alerts, error messages, and modals.
 - **Lists and Dropdowns:** Consistent layouts for list items, dropdowns, and selection menus.
+- Any other components essential to your software.
 
-And any other components that are essential to the overall design of your software.
+For each component, document best practices and specific use cases for when and how to implement it.
 
-### Outline Best Practices and Use Cases
+### 4. Accessibility & Responsiveness
 
-Document best practices for using each component and provide specific use cases for when and how to implement them.
-
-## 4. Overall Best Practices and Accessibility Considerations
-
-Outline best practices for achieving consistency, usability, and accessibility across the design. This should include, but is not limited to:
+Outline best practices for consistency, usability, and accessibility across the design:
 
 - **Accessibility Guidelines:** Ensure contrast, font size, and screen reader compatibility.
 - **Responsiveness and Scaling:** Guidelines for how components should adjust to different screen sizes (desktop, tablet, mobile). *You won't be expected to implement this for the final prototype, but it's important to consider when designing interfaces.*
 - **General Best Practices:** Suggestions for creating a clean, intuitive, and engaging user interface.
 
-## 5. Apply the Design System
+### 5. High-Fidelity Mockups
 
-Select **two core screens** from your prototype and apply the design system to create high-fidelity static mockups. These mockups should demonstrate:
+Select **two core screens** from your prototype and apply your design system to create high-fidelity static mockups. These should demonstrate:
 
 - Consistent use of colors, typography, layout, and components.
 - Adherence to the tone, design principles, and visual style defined in your design system.
 
-## Deliverable
+Include the mockups at the end of your Design System document.
 
-Submit the Design System Document with the mockups included at the end to the myCourses dropbox.
+---
 
 ## Rubric (100 points)
 
