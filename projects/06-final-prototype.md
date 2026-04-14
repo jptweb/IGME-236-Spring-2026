@@ -1,6 +1,6 @@
 # Prototype Project: Final Prototype
 
-**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · [5. Design System](./05-design-system.md) · **6. Final Prototype** · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
+**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · [5. Design System and High-Fidelity Mockup](./05-design-system.md) · **6. Final Prototype** · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
 
 Your final prototype will be a cohesive high-fidelity prototype. It should simulate the process of using the software, and its appearance, as closely as possible. It should incorporate any changes that your lo-fi version indicated were necessary.
 
@@ -38,4 +38,4 @@ Submit a **link to your high-fidelity prototype** and a **list of each of the us
 *Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design thinking, decisions, or work. Detailed do's and don'ts for this step will be posted before it's due.
 
 ---
-[< Previous: Design System](./05-design-system.md) | [Project Overview](./README.md) | [Next: Video Walkthrough >](./07-video-walkthrough.md)
+[< Previous: Design System and High-Fidelity Mockup](./05-design-system.md) | [Project Overview](./README.md) | [Next: Video Walkthrough >](./07-video-walkthrough.md)

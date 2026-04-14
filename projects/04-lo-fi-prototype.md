@@ -1,6 +1,6 @@
 # Prototype Project: Lo-Fi Prototype
 
-**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · **4. Lo-Fi Prototype** · [5. Design System](./05-design-system.md) · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
+**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · **4. Lo-Fi Prototype** · [5. Design System and High-Fidelity Mockup](./05-design-system.md) · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
 
 Now that you've done your user research, create a low-fidelity prototype of your solution and conduct preliminary user testing to gather feedback.
 
@@ -95,4 +95,4 @@ If AI tools are used, include a brief acknowledgment describing how they support
 | **Writing Quality (10)** | Clear, well-organized, proofread. Professional tone appropriate for a design document. Sections are distinct and easy to follow. | Generally clear with minor issues. Organization could be tighter. | Hard to follow, frequent errors, or reads as rushed notes rather than a deliverable. | Unreadable or clearly unedited. |
 
 ---
-[< Previous: User Research](./03-user-research.md) | [Project Overview](./README.md) | [Next: Design System >](./05-design-system.md)
+[< Previous: User Research](./03-user-research.md) | [Project Overview](./README.md) | [Next: Design System and High-Fidelity Mockup >](./05-design-system.md)

@@ -1,6 +1,6 @@
-# Prototype Project: Design System
+# Prototype Project: Design System and High-Fidelity Mockup
 
-**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · **5. Design System** · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
+**Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · **5. Design System and High-Fidelity Mockup** · [6. Final Prototype](./06-final-prototype.md) · [7. Video Walkthrough](./07-video-walkthrough.md) · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
 
 Using both the [Design System Checklist](https://www.designsystemchecklist.com/) and the [Branding Style Guidelines Archive](https://brandingstyleguides.com/) as references, you will be documenting your own Design System.
 
@@ -81,7 +81,33 @@ Submit the Design System Document with the mockups included at the end to the my
 
 ## AI Expectations
 
-*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design decisions. Detailed do's and don'ts for this step will be posted before it's due.
+AI use on this one is **allowed and encouraged** as a design support tool — especially for exploring and visualizing design system elements.
+
+**You can use AI to:**
+
+- Explore visual ideas — color palettes, typography pairings, icon styles, UI styles, layout inspiration
+- Generate example components or mockups as starting points or references
+- Help define or refine design principles, tone, and terminology
+- Improve the writing clarity, tone, and organization of your Design System document
+
+If you don't have a strong visual-design background, AI can genuinely accelerate that side of your process — use it.
+
+**You can't use AI to:**
+
+- Generate a complete design system without your team actually making the decisions
+- Replace your understanding of *how* and *why* design choices are made
+- Submit raw AI-generated visuals without adapting, refining, or integrating them into a cohesive system
+
+### Important expectations
+
+- Your design system must feel **intentional and consistent** — not a collection of unrelated AI-generated pieces
+- All components and mockups must be implemented and organized by your team **inside your design tool** (Figma or Axure), even if AI helped you explore ideas first
+- You're responsible for making sure your design choices are usable, readable, and appropriate for your target users
+- **Accessibility** (contrast, readability, etc.) needs to be checked by you — don't assume AI output is correct
+
+### Transparency
+
+If AI tools were part of your process, include a brief acknowledgment describing **how** they supported your work (e.g., "we used ChatGPT to brainstorm color palette directions and Figma's AI features to generate button state variations, then refined them together as a team").
 
 ---
 [< Previous: Lo-Fi Prototype](./04-lo-fi-prototype.md) | [Project Overview](./README.md) | [Next: Final Prototype >](./06-final-prototype.md)
