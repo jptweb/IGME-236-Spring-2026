@@ -8,13 +8,13 @@ Your final prototype will be a cohesive high-fidelity prototype. It should simul
 
 **One submission** to the myCourses dropbox containing both of the following:
 
-1. **Working link to your high-fidelity prototype** (Figma, Axure, etc.) — make sure it's viewable and interactive for anyone with the link.
-2. **List of task flows** in the prototype — one per team member. For each flow, include:
-    - The **team member who owns it** (they'll narrate it in their individual Video Walkthrough in step 7 — no video due with *this* submission)
-    - A short description of the **user task** (what the person using the prototype is trying to accomplish)
-    - Where the flow **starts** in the prototype (which screen)
+1. **Working link to your high-fidelity prototype** (Figma, Axure, etc.). Make sure it's viewable and interactive for anyone with the link.
+2. **List of task flows** in the prototype, one per team member. For each flow, include:
+    - The **team member who owns it**. They'll narrate it in their individual Video Walkthrough in step 7. No video due with *this* submission.
+    - A short description of the **user task** (what the person using the prototype is trying to accomplish).
+    - Where the flow **starts** in the prototype (which screen).
 
-You can submit both as a single PDF, a shared doc link, or paste directly into the dropbox — whatever keeps them together.
+You can submit both as a single PDF, a shared doc link, or paste directly into the dropbox. Whatever keeps them together.
 
 The sections below explain what the prototype itself needs to cover. Think of them as the **guide**; the list above is the **checklist** for what actually lands in the dropbox.
 
@@ -26,16 +26,16 @@ The sections below explain what the prototype itself needs to cover. Think of th
 
 - Demonstrates **each team member's task flow**, end-to-end and fully functional.
 - **Visually polished** and intuitive to navigate.
-- **Adheres to the design system** you defined in step 5 — typography, colors, components, and layout should be consistent across flows.
-- Includes **edge screens** beyond the happy path — screens where users modify content, and screens shown when someone chooses the wrong option while trying to accomplish a task.
-- Shows **meaningful evolution from your lo-fi** — the final prototype should reflect changes based on feedback and what you learned, not just a re-skin of the lo-fi screens.
+- **Adheres to the design system** you defined in step 5. Typography, colors, components, and layout should be consistent across flows.
+- Includes **edge screens** beyond the happy path: screens where users modify content, and screens shown when someone chooses the wrong option while trying to accomplish a task.
+- Shows **meaningful evolution from your lo-fi**. The final prototype should reflect changes based on feedback and what you learned, not just a re-skin of the lo-fi screens.
 - If you're not clear on what any of this means in the context of your project, please ask.
 
 ### Task Flow Ownership
 
 Each team member **owns one task flow** for the final prototype. Ownership means you led that flow's design, can speak to it end-to-end, and will narrate it in your **individual Video Walkthrough (step 7, due during finals week)**.
 
-- Each owner should have a **different** flow — no duplicates within a team — so the team's video walkthroughs together cover the whole prototype.
+- Each owner should have a **different** flow (no duplicates within a team) so the team's video walkthroughs together cover the whole prototype.
 - **You're still a team.** Ownership is about accountability, not solo work. Collaborating across flows is expected.
 - **Two-person teams** will have two owned flows (plus any extras you choose to include).
 - **Extra flows are welcome and won't count against you.** The rubric grades each owner's flow, not every screen you built. Polish the owned flows first; additional flows that are rougher won't pull your grade down.
@@ -61,7 +61,7 @@ Be sure to test your prototype before submitting. If I encounter significant pro
 
 ## AI Expectations
 
-*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design thinking, decisions, or work. Detailed do's and don'ts for this step will be posted before it's due.
+*Placeholder: specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design thinking, decisions, or work. Detailed do's and don'ts for this step will be posted before it's due.
 
 ---
 [< Previous: Design System and High-Fidelity Mockup](./05-design-system.md) | [Project Overview](./README.md) | [Next: Video Walkthrough >](./07-video-walkthrough.md)
