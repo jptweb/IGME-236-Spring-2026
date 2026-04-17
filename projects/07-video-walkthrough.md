@@ -2,24 +2,36 @@
 
 **Project steps:** [1. Proposal](./01-proposal.md) · [2. Research Prep](./02-user-research-prep.md) · [3. User Research](./03-user-research.md) · [4. Lo-Fi Prototype](./04-lo-fi-prototype.md) · [5. Design System and High-Fidelity Mockup](./05-design-system.md) · [6. Final Prototype](./06-final-prototype.md) · **7. Video Walkthrough** · [8. Reflections & Peer Eval](./08-reflections-peer-eval.md)
 
-> **This is an individual submission.** The focus should be on the work that YOU did on the project.
+> **This is an individual submission.** The focus should be on the task flow **you owned** in your team's prototype.
 
-## Instructions
+## What You're Submitting
 
-The video walkthrough should provide a narrated demonstration of the task you implemented in your prototype. This is to ensure that when grading it, we don't miss something that you included.
+**One submission** to the myCourses dropbox:
 
-- It does not require captioning.
-- There is not a length requirement; it just needs to show the full range of functionality.
+- A **link to your narrated video walkthrough** demonstrating your owned task flow in the final prototype. Upload to **YouTube** (unlisted is fine), or to **Google Drive** with sharing set so anyone with the link can view.
 
-## Tips
+## Guide
 
-One easy way to do this is by sharing your screen in a Zoom meeting (even if nobody else is in the meeting), and recording the walkthrough and narration. You can then edit the files in a video editing program.
+### Which Task Flow Do I Walk Through?
 
-## Deliverable
+Walk through **the task flow you owned** on the Final Prototype submission (step 6). That's the flow listed under your name in your team's submission.
 
-Upload the video to **YouTube**, and provide a link to it here.
+- Each team member walks through a **different** flow — no duplicates — so across the team's videos I get a complete picture of your prototype.
+- If you didn't have a clear owned flow going into the final prototype, your team should have divided flows when submitting step 6. Stick with whichever flow is assigned to you there.
 
-Alternatively, you can put the video in **Google Drive**, but you **MUST** make sure that you set the sharing up so that anyone with a link can access it.
+### What the Video Should Cover
+
+A narrated demo of your owned task flow from start to finish, including:
+
+- Walking through each screen in the flow so I don't miss anything you built.
+- Narrating what the user is trying to accomplish and what's happening on screen.
+- Showing the full range of functionality for that flow (including any error or edge-case screens that are part of it).
+
+### Logistics
+
+- **No captioning requirement.**
+- **No hard length requirement** — just long enough to cover the full flow. Most walkthroughs end up in the 3–8 minute range.
+- An easy way to record: share your screen in a Zoom meeting (even with nobody else there) and record the walkthrough + narration. You can edit afterward if you want.
 
 ## AI Expectations
 

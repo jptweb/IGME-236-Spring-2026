@@ -4,34 +4,60 @@
 
 Your final prototype will be a cohesive high-fidelity prototype. It should simulate the process of using the software, and its appearance, as closely as possible. It should incorporate any changes that your lo-fi version indicated were necessary.
 
-## Requirements
+## What You're Submitting
 
-- The prototype should demonstrate **each task flow** (one for each team member), consistent with the design system created.
-- The prototype should be **fully functional and visually polished**.
-- At a minimum, your prototype should include any screens on which you are modifying content, and any screens that might display if someone chose the wrong option while trying to accomplish the given task.
-- If you're not clear on what this means in the context of your project, please let us know.
+**One submission** to the myCourses dropbox containing both of the following:
 
-## Testing
+1. **Working link to your high-fidelity prototype** (Figma, Axure, etc.) — make sure it's viewable and interactive for anyone with the link.
+2. **List of task flows** in the prototype — one per team member. For each flow, include:
+    - The **team member who owns it** (they'll narrate it in their individual Video Walkthrough in step 7 — no video due with *this* submission)
+    - A short description of the **user task** (what the person using the prototype is trying to accomplish)
+    - Where the flow **starts** in the prototype (which screen)
+
+You can submit both as a single PDF, a shared doc link, or paste directly into the dropbox — whatever keeps them together.
+
+The sections below explain what the prototype itself needs to cover. Think of them as the **guide**; the list above is the **checklist** for what actually lands in the dropbox.
+
+---
+
+## Guide
+
+### Prototype Requirements
+
+- Demonstrates **each team member's task flow**, end-to-end and fully functional.
+- **Visually polished** and intuitive to navigate.
+- **Adheres to the design system** you defined in step 5 — typography, colors, components, and layout should be consistent across flows.
+- Includes **edge screens** beyond the happy path — screens where users modify content, and screens shown when someone chooses the wrong option while trying to accomplish a task.
+- Shows **meaningful evolution from your lo-fi** — the final prototype should reflect changes based on feedback and what you learned, not just a re-skin of the lo-fi screens.
+- If you're not clear on what any of this means in the context of your project, please ask.
+
+### Task Flow Ownership
+
+Each team member **owns one task flow** for the final prototype. Ownership means you led that flow's design, can speak to it end-to-end, and will narrate it in your **individual Video Walkthrough (step 7, due during finals week)**.
+
+- Each owner should have a **different** flow — no duplicates within a team — so the team's video walkthroughs together cover the whole prototype.
+- **You're still a team.** Ownership is about accountability, not solo work. Collaborating across flows is expected.
+- **Two-person teams** will have two owned flows (plus any extras you choose to include).
+- **Extra flows are welcome and won't count against you.** The rubric grades each owner's flow, not every screen you built. Polish the owned flows first; additional flows that are rougher won't pull your grade down.
+- If you never took clear ownership of a specific flow during the project, talk with your team now, divide flows so there are no duplicates, and go from there.
+
+### Testing Before You Submit
 
 It is in your best interest to test your prototype with people from your intended user group, and to modify the prototype as needed based on those tests before turning in the final version.
 
 Be sure to test your prototype before submitting. If I encounter significant problems with accomplishing the given tasks using your prototype, that will be a strong signal that you did not appropriately test the prototype before turning it in.
 
-## Deliverable
-
-Submit a **link to your high-fidelity prototype** and a **list of each of the user tasks** that have been addressed within the prototype.
-
 ## Rubric (100 points)
 
-| Criterion | Excellent | Good | Fair | Unacceptable |
-|---|---|---|---|---|
-| **Task Flow Implementation (30)** | 21–30 pts. All task flows (one per team member) are implemented and functional, allowing users to complete tasks seamlessly. | 11–20 pts. Most task flows are implemented and functional, with minor usability issues. | 1–10 pts. Some task flows are incomplete or contain usability issues that hinder task completion. | 0 pts. Task flows are incomplete, non-functional, or poorly implemented. |
-| **Error Handling Screens (10)** | 7–10 pts. Includes all necessary screens for modifying content and handling incorrect actions, with clear and functional navigation. | 4–6 pts. Includes most necessary screens, with minor gaps in handling errors or incorrect actions. | 1–3 pts. Includes some necessary screens, but error handling is incomplete or unclear. | 0 pts. Lacks necessary screens or error-handling functionality. |
-| **Adherence to Design System (20)** | 14–20 pts. Fully adheres to the design system, with consistent use of typography, colors, components, and layout. | 7–13 pts. Mostly adheres to the design system, with minor inconsistencies. | 1–6 pts. Some inconsistencies with the design system are present, affecting cohesion. | 0 pts. Significant inconsistencies with the design system. |
-| **Visual Polish and Usability (10)** | 7–10 pts. Prototype is visually polished, with intuitive navigation and a clean, professional appearance. | 4–6 pts. Prototype is visually clear, with some minor usability or aesthetic issues. | 1–3 pts. Prototype is functional but lacks visual refinement or usability clarity. | 0 pts. Prototype is visually unpolished, cluttered, or confusing. |
-| **Prototype Testing (20)** | 14–20 pts. Thoroughly tested with user group; issues are resolved before submission. | 7–13 pts. Tested but with minor unresolved issues affecting functionality. | 1–6 pts. Limited testing; significant unresolved issues remain. | 0 pts. Prototype shows no evidence of testing or refinement. |
-| **Working link to prototype (5)** | 1–5 pts. Submission includes a working link to the prototype. | — | — | 0 pts. Missing or broken link. |
-| **User tasks clearly outlined (5)** | 1–5 pts. User tasks are clearly outlined in the submission. | — | — | 0 pts. Missing or unclear. |
+| Criterion                              | Excellent                                                                                                                                              | Good                                                                                               | Fair                                                                                              | Unacceptable                                                             |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Task Flow Implementation (35)**      | 25–35 pts. Each team member's core task flow is implemented and functional, allowing users to complete the task end-to-end without getting stuck.      | 13–24 pts. Most core task flows are implemented and functional, with minor usability issues.       | 1–12 pts. Some task flows are incomplete or contain usability issues that hinder task completion. | 0 pts. Task flows are incomplete, non-functional, or poorly implemented. |
+| **Adherence to Design System (20)**    | 14–20 pts. Fully adheres to the design system, with consistent use of typography, colors, components, and layout.                                      | 7–13 pts. Mostly adheres to the design system, with minor inconsistencies.                         | 1–6 pts. Some inconsistencies with the design system are present, affecting cohesion.             | 0 pts. Significant inconsistencies with the design system.               |
+| **Visual Polish and Usability (15)**   | 11–15 pts. Prototype is visually polished, with intuitive navigation and a clean, professional appearance.                                             | 6–10 pts. Prototype is visually clear, with some minor usability or aesthetic issues.              | 1–5 pts. Prototype is functional but lacks visual refinement or usability clarity.                | 0 pts. Prototype is visually unpolished, cluttered, or confusing.        |
+| **Error Handling / Edge Screens (10)** | 7–10 pts. Includes all necessary screens for modifying content and handling incorrect actions, with clear and functional navigation.                   | 4–6 pts. Includes most necessary screens, with minor gaps in handling errors or incorrect actions. | 1–3 pts. Includes some necessary screens, but error handling is incomplete or unclear.            | 0 pts. Lacks necessary screens or error-handling functionality.          |
+| **Iteration from Lo-Fi (10)**          | 7–10 pts. Prototype shows meaningful evolution from the lo-fi — changes are considered and address feedback or issues surfaced earlier in the process. | 4–6 pts. Some evolution from the lo-fi, but limited or inconsistent.                               | 1–3 pts. Minimal changes from the lo-fi, or changes don't appear considered.                      | 0 pts. No meaningful evolution from the lo-fi version.                   |
+| **Working link to prototype (5)**      | 1–5 pts. Submission includes a working, accessible link to the prototype.                                                                              | —                                                                                                  | —                                                                                                 | 0 pts. Missing or broken link.                                           |
+| **Task flows clearly outlined (5)**    | 1–5 pts. Core task flows are clearly outlined with an owner, user task, and starting screen for each — one per team member, no duplicates.             | —                                                                                                  | —                                                                                                 | 0 pts. Missing or unclear.                                               |
 
 ## AI Expectations
 
