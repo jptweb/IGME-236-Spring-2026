@@ -4,6 +4,8 @@
 
 Your final prototype will be a cohesive high-fidelity prototype. It should simulate the process of using the software, and its appearance, as closely as possible. It should incorporate any changes that your lo-fi version indicated were necessary.
 
+**Due at your Final Exam time.** Bring your team and the working prototype to the exam timeslot.
+
 ## What You're Submitting
 
 **One submission** to the myCourses dropbox containing both of the following:
@@ -28,8 +30,17 @@ The sections below explain what the prototype itself needs to cover. Think of th
 - **Visually polished** and intuitive to navigate.
 - **Adheres to the design system** you defined in step 5. Typography, colors, components, and layout should be consistent across flows.
 - Includes **edge screens** beyond the happy path: screens where users modify content, and screens shown when someone chooses the wrong option while trying to accomplish a task.
+- Includes **meaningful system feedback** — show what happens when users make progress, make mistakes, or encounter decisions, confirmations, or errors.
 - Shows **meaningful evolution from your lo-fi**. The final prototype should reflect changes based on feedback and what you learned, not just a re-skin of the lo-fi screens.
 - If you're not clear on what any of this means in the context of your project, please ask.
+
+### What "Functional" Means
+
+Your prototype **does not need to be fully coded** or technically complete. It needs to function as a **believable simulation**, meaning:
+
+- All required interactions are clickable and connected.
+- Task flows can be completed without dead ends.
+- Navigation and transitions make sense to a first-time user.
 
 ### Task Flow Ownership
 
@@ -43,9 +54,14 @@ Each team member **owns one task flow** for the final prototype. Ownership means
 
 ### Testing Before You Submit
 
-It is in your best interest to test your prototype with people from your intended user group, and to modify the prototype as needed based on those tests before turning in the final version.
+You're expected to test your high-fidelity prototype with users before submission.
 
-Be sure to test your prototype before submitting. If I encounter significant problems with accomplishing the given tasks using your prototype, that will be a strong signal that you did not appropriately test the prototype before turning it in.
+- **Conduct usability testing** with members of your intended audience, or reasonable proxies if needed.
+- **Observe task completion** — watch how users actually attempt the major tasks in your prototype.
+- **Identify friction points** — pay attention to confusion, hesitation, breakdowns, or usability problems.
+- **Revise accordingly** — make meaningful changes based on what you learn.
+
+If I encounter significant problems completing tasks in your prototype, that's a strong signal testing and iteration were insufficient or not meaningfully applied.
 
 ## Rubric (100 points)
 
@@ -61,7 +77,30 @@ Be sure to test your prototype before submitting. If I encounter significant pro
 
 ## AI Expectations
 
-*Placeholder: specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own design thinking, decisions, or work. Detailed do's and don'ts for this step will be posted before it's due.
+AI use for this assignment is allowed in a **limited, supportive role**.
+
+**You may use AI tools to:**
+
+- Ask questions about how to use your prototyping tools (Figma, Axure, etc.).
+- Troubleshoot interaction issues or implementation challenges.
+- Get feedback on clarity of labels, wording, or microcopy.
+- Help identify potential usability concerns to consider — which you must then evaluate yourself.
+
+**AI may not be used to:**
+
+- Generate your interface designs, layouts, or full screens.
+- Define your user flows, interactions, or system behavior.
+- Replace your team's design decisions or iteration process.
+- Simulate user testing or fabricate feedback.
+
+**Expectations:**
+
+- Your prototype must reflect your team's actual design process, testing, and iteration.
+- All screens, components, and interactions must be built and connected by your team.
+- AI suggestions are ideas to evaluate, not answers to implement blindly.
+- Usability improvements must come from real testing and observation, not AI-generated assumptions.
+
+**Transparency:** If AI tools were used, include a brief acknowledgment describing how they supported your process.
 
 ---
 [< Previous: Design System and High-Fidelity Mockup](./05-design-system.md) | [Project Overview](./README.md) | [Next: Video Walkthrough >](./07-video-walkthrough.md)
