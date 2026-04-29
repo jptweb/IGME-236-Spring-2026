@@ -45,7 +45,24 @@ In myCourses this is titled "Final Writeup."
 
 ## AI Expectations
 
-*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own reflection or honest evaluation of your team. Detailed do's and don'ts for this step will be posted before it's due.
+AI use for this assignment is **strongly discouraged**. This is the most personal deliverable in the project, and its value comes entirely from honest, firsthand reflection on your own experience and your assessment of your teammates.
+
+**You may use AI tools to:**
+
+- Polish grammar, spelling, and sentence-level clarity *after* you've written your own draft
+- Help organize already-written paragraphs if a section feels disorganized
+
+**AI may not be used to:**
+
+- Generate any part of your process or product reflections
+- Write or rephrase your evaluation of any teammate (including yourself)
+- Invent examples of teamwork, challenges, contributions, or design decisions
+- Suggest scores for participation or quality of work
+- Smooth over your honest tone with generic-sounding praise or critique
+
+This is a writing-intensive piece in a writing-intensive course. The reflection in your own voice is the deliverable. Reflections that read as AI-generated (vague, generic, or stylistically very different from your other writing this semester) will not satisfy the rubric.
+
+**Transparency:** If you used AI for either of the limited supportive purposes above, include a brief acknowledgment describing exactly how.
 
 ---
 [< Previous: Video Walkthrough](./07-video-walkthrough.md) | [Project Overview](./README.md)

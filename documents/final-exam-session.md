@@ -18,13 +18,19 @@ There is **no traditional written or online exam** for this class. The exam time
 
 Each team will come up to the front of the room and walk the class through your prototype, hitting **each owner's task flow**. Think of it as a casual demo, not a formal presentation.
 
+- **Each owner walks through their own task flow.** Feel free to swap who's driving the laptop as you hand off between flows.
 - **No slides required.** If you want to put together something light to help frame your walkthrough, you're welcome to, but it's not expected and won't earn extra credit.
-- **One person from your team drives**, the rest of the team should be sitting together with the prototype pulled up on at least one laptop in case I want to look at something specific.
 - **Class can ask questions** after each demo.
 
 ### How long per team
 
-Roughly 10 to 12 minutes per team, including questions. With 9 teams in a 2.5 hour slot we have comfortable margin, but try to be ready when it's your turn so we keep the pace.
+Likely anywhere from 5 to 15 minutes per team, depending on how much you want to share and how many questions you get from the class. With 9 teams in a 2.5 hour slot we have comfortable margin, but try to be ready when it's your turn so we keep the pace.
+
+### After the formal demos
+
+Once all teams have presented, **stay set up at your desks** with your prototype open. I'll come around to each team to check in and ask any follow-up questions.
+
+You're also welcome (and encouraged) to walk around and try other teams' prototypes, or have other teams walk through yours. This is a good chance to gather a last round of peer feedback that can feed into your **Reflections** (due Tue May 5).
 
 ---
 
