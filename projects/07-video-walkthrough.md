@@ -33,9 +33,36 @@ A narrated demo of your owned task flow from start to finish, including:
 - **No hard length requirement** — just long enough to cover the full flow. Most walkthroughs end up in the 3–8 minute range.
 - An easy way to record: share your screen in a Zoom meeting (even with nobody else there) and record the walkthrough + narration. You can edit afterward if you want.
 
+## Rubric (100 points)
+
+| Criterion              | Excellent                                                                                                                            | Good                                                        | Fair                                                                      | Unacceptable                                              |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Flow Coverage (50)** | 36–50 pts. Walks through the full owned flow end-to-end. All screens shown, including edge/error cases. Nothing important left out. | 20–35 pts. Most of the flow is covered, with minor gaps.    | 1–19 pts. Significant gaps — key screens or interactions are missing.     | 0 pts. Flow not demonstrated, or wrong flow shown.        |
+| **Narration (30)**     | 22–30 pts. Clear narration throughout. User task and on-screen actions are easy to follow.                                          | 12–21 pts. Mostly clear, with occasional gaps or confusion. | 1–11 pts. Unclear or sparse narration that makes the flow hard to follow. | 0 pts. No narration, or narration prevents understanding. |
+| **Submission (20)**    | 14–20 pts. Working, accessible link; demonstrates the correct (owned) flow from the team's step-6 submission.                       | 8–13 pts. Minor issue with link sharing or flow ownership clarity. | 1–7 pts. Broken link, wrong flow, or other significant issue.            | 0 pts. Missing or unusable.                               |
+
 ## AI Expectations
 
-*Placeholder — specific guidelines will be added closer to the assignment.* I'm filling in the AI policy for each step as we get to it. The big picture stays the same: **disclose any AI use** and keep it in a **supportive role**, not a substitute for your own work. Detailed do's and don'ts for this step will be posted before it's due.
+AI use for this assignment is allowed in a **limited, supportive role**.
+
+**You may use AI tools to:**
+
+- Outline talking points or rehearse what you'll say.
+- Get feedback on the clarity of a script or notes you wrote.
+- Help with editing or post-production tasks (cuts, captions, audio cleanup).
+
+**AI may not be used to:**
+
+- Generate or voice your narration in place of you speaking.
+- Fabricate commentary about screens or interactions you didn't actually design or work on.
+- Replace your own evaluation of your task flow.
+
+**Expectations:**
+
+- The narration must be in your own voice, describing your own work.
+- Talking points should reflect what you actually built and learned.
+
+**Transparency:** If AI tools were used (e.g., to outline your script), include a brief note describing how.
 
 ---
 [< Previous: Final Prototype](./06-final-prototype.md) | [Project Overview](./README.md) | [Next: Reflections & Peer Eval >](./08-reflections-peer-eval.md)
