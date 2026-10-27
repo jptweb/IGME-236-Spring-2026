@@ -36,14 +36,18 @@ Picking your real phone size now means the preview will match your screen later.
 
 This is a wireframe, so don't spend long on styling.
 
-### Step 3: Build the tab bar
+### Step 3: Build the tab bar, then group both bars
 
 1. Copy the header rectangle (`Cmd/Ctrl + C`, then `Cmd/Ctrl + V`) and move it to the bottom of the
    frame.
 2. Press `R` and draw 3 small rectangles on it. These stand in for icons.
 3. Space them evenly.
+4. Select the header rectangle and its text, and group them (`Cmd/Ctrl + G`). In the **Layers**
+   panel on the left, double-click the new group's name and rename it **Header**.
+5. Do the same for the tab bar and its 3 icons. Name that group **Tab bar**.
 
-Keep the tab bar about 60 to 80 pixels tall.
+Keep the tab bar about 60 to 80 pixels tall. Naming the groups now keeps the Layers panel readable
+once the page fills up, and each bar moves as one piece.
 
 ### Step 4: Add content cards
 
@@ -70,12 +74,19 @@ A phone frame with a dark header, 3 cards, and a tab bar with 3 icon placeholder
 
 ## Part 2: Scrolling
 
-### Step 6: Make the page scroll
+### Step 6: Save a copy, then make the page scroll
 
-1. Zoom out a bit and select the frame.
-2. Drag the **bottom edge** of the frame down to make it taller than the phone.
-3. Drag the tab bar down to the new bottom.
-4. Copy a card and paste more of them to fill the extra space.
+First, save a clean copy of this screen. It becomes your second page in Part 3.
+
+1. Double-click the frame's name and rename it **Page 1**.
+2. Copy the frame and paste the copy off to the side. Rename it **Page 2** and leave it alone for now.
+
+Now stretch Page 1:
+
+3. Zoom out a bit and select Page 1.
+4. Drag the **bottom edge** of the frame down to make it taller than the phone.
+5. Drag the **Tab bar** group down to the new bottom.
+6. Copy a card and paste more of them to fill the extra space.
 
 Play it: the page should scroll now. You'll notice the header and tab bar scroll away with
 everything else. The next two steps fix that.
@@ -85,9 +96,9 @@ everything else. The next two steps fix that.
 
 ### Step 7: Keep the header in place
 
-1. Select the header rectangle and its text, then group them (`Cmd/Ctrl + G`).
-2. With the group selected, go to the **Prototype** tab → **Scroll behavior** → **Position** and
-   choose **Fixed (stay in place)**.
+1. Select the **Header** group. If it's hard to grab on the canvas, click its name in the Layers panel.
+2. Go to the **Prototype** tab → **Scroll behavior** → **Position** and choose **Fixed (stay in
+   place)**.
 
 ![Position set to Fixed in the Prototype tab](_images/prototype-fixed-header.png)
 
@@ -99,7 +110,7 @@ of the toolbar.
 
 ### Step 8: Keep the tab bar in place
 
-1. Select the tab bar and its icons, and group them.
+1. Select the **Tab bar** group.
 2. In the **Design** tab, find **Constraints** under Position and set the vertical one to **Bottom**.
 3. Then, same as the header: **Prototype** tab → **Scroll behavior** → **Position** → **Fixed (stay
    in place)**.
@@ -141,23 +152,13 @@ They need their own frame before they can scroll, and that's easier to set up ou
 
 The frame has to be narrower than the row of cards. If everything fits, there's nothing to scroll.
 
+**See a gray ! next to Overflow?** Figma is telling you the cards don't run past the frame. Go back to
+item 2 and make the frame narrower.
+
 ### ✅ Checkpoint: sideways scrolling
 
 Play it. The page still scrolls up and down with the header and tab bar fixed, and the row of cards
 scrolls sideways.
-
-### Step 11.5: Make the header and tab bar into components (recommended)
-
-Do this before you copy the page in the next step.
-
-1. Select the header group, then right-click → **Create component**.
-2. Do the same for the tab bar group.
-
-![Creating components from the header and tab bar](_images/prototype-step-11-5.png)
-
-Now when you copy the page, the header and tab bar come along as **instances** of those components.
-Change the original once and every copy updates. Anything that repeats across screens should be a
-component; it's a habit worth building now.
 
 ---
 
@@ -165,11 +166,13 @@ component; it's a habit worth building now.
 
 ### Step 12: Make page 2
 
-1. Double-click the frame's name and rename it **Page 1**.
-2. Copy the whole frame and paste the copy beside it. Rename it **Page 2**.
-3. Keep the header and tab bar, and change the rest so it clearly looks like a different screen.
+1. Find the **Page 2** copy you saved in step 6.
+2. Keep the header and tab bar, and change the rest so it clearly looks like a different screen.
 
 If Page 2 looks too much like Page 1, you won't be able to tell when the link works.
+
+**Skipped the copy in step 6?** Copy Page 1 now, paste it beside it, and rename it **Page 2**. It'll be
+the long, scrolling version, and that's fine.
 
 ### Step 13: Link Page 1 to Page 2
 
@@ -233,9 +236,22 @@ Play it. The trigger opens the pop-up over a dimmed page, and both the X and a t
 
 ## Bonus tips
 
+### Make the header and tab bar into components
+
+In a real project, anything that repeats across screens should be a **component**. Do this right
+after step 3, before you save the Page 2 copy in step 6.
+
+1. Select the **Header** group, then right-click → **Create component**.
+2. Do the same for the **Tab bar** group.
+
+![Creating components from the header and tab bar](_images/prototype-step-11-5.png)
+
+Now when you copy the page, the header and tab bar come along as **instances** of those components.
+Change the original once and every copy updates.
+
 ### Put the tab bar's links inside the component
 
-If you did step 11.5, you can set the tab bar's links **once** and have every page get them.
+If you made the tab bar a component, you can set its links **once** and have every page get them.
 
 1. Find the **main component** for the tab bar (the original, not a copy; its icon in the Layers panel
    is solid).
@@ -266,9 +282,9 @@ which you'll be doing for your project prototype.
 | Problem | Fix |
 |---|---|
 | The page won't scroll | Make the frame taller than the phone, and set **Overflow → Vertical** in the Prototype tab |
-| The header or tab bar scrolls away | Group it, then **Prototype → Scroll behavior → Position → Fixed** |
+| The header or tab bar scrolls away | Select its group (**Header** or **Tab bar**), then **Prototype → Scroll behavior → Position → Fixed** |
 | The tab bar is fixed in the wrong place | Set its constraint to **Bottom** in the Design tab |
-| The cards won't scroll sideways | Check **Clip content**, set **Overflow → Horizontal**, and make sure the frame is narrower than the cards |
+| The cards won't scroll sideways | Check **Clip content**, set **Overflow → Horizontal**, and make sure the frame is narrower than the cards (a gray **!** next to Overflow means it isn't) |
 | A link doesn't work | In the Prototype tab, check there's a blue line from the icon to the page |
 | The pop-up is hard to see | Turn on **Add background behind overlay** |
 | The pop-up won't close | Give the X a **Close overlay** interaction |
